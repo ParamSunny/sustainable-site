@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  color: #333;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px;
+  background: #222;
+  color: white;
+}
+
+.header a {
+  color: white;
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+#hero {
+  text-align: center;
+  padding: 50px;
+}
+
+.profile {
+  width: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+section {
+  padding: 40px;
+  max-width: 800px;
+  margin: auto;
+}
